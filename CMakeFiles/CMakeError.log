@@ -1,0 +1,57 @@
+Determining if the include file tr1/tuple exists failed with the following output:
+Change Dir: /Users/admin/cmake-basis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/gmake" "cmTC_03021/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_03021.dir/build.make CMakeFiles/cmTC_03021.dir/build
+gmake[1]: Entering directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_03021.dir/CheckIncludeFile.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_03021.dir/CheckIncludeFile.cxx.o -c /Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: 'tr1/tuple' file not found
+#include <tr1/tuple>
+         ^
+1 error generated.
+CMakeFiles/cmTC_03021.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_03021.dir/CheckIncludeFile.cxx.o' failed
+gmake[1]: *** [CMakeFiles/cmTC_03021.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: Leaving directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_03021/fast' failed
+gmake: *** [cmTC_03021/fast] Error 2
+
+
+Determining if the include file tr1/tuple exists failed with the following output:
+Change Dir: /Users/admin/cmake-basis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/gmake" "cmTC_2f7ed/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_2f7ed.dir/build.make CMakeFiles/cmTC_2f7ed.dir/build
+gmake[1]: Entering directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2f7ed.dir/CheckIncludeFile.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_2f7ed.dir/CheckIncludeFile.cxx.o -c /Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: 'tr1/tuple' file not found
+#include <tr1/tuple>
+         ^
+1 error generated.
+CMakeFiles/cmTC_2f7ed.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2f7ed.dir/CheckIncludeFile.cxx.o' failed
+gmake[1]: *** [CMakeFiles/cmTC_2f7ed.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: Leaving directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2f7ed/fast' failed
+gmake: *** [cmTC_2f7ed/fast] Error 2
+
+
+Determining if the include file tr1/tuple exists failed with the following output:
+Change Dir: /Users/admin/cmake-basis/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/local/bin/gmake" "cmTC_19385/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_19385.dir/build.make CMakeFiles/cmTC_19385.dir/build
+gmake[1]: Entering directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_19385.dir/CheckIncludeFile.cxx.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++      -o CMakeFiles/cmTC_19385.dir/CheckIncludeFile.cxx.o -c /Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+/Users/admin/cmake-basis/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:10: fatal error: 'tr1/tuple' file not found
+#include <tr1/tuple>
+         ^
+1 error generated.
+CMakeFiles/cmTC_19385.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_19385.dir/CheckIncludeFile.cxx.o' failed
+gmake[1]: *** [CMakeFiles/cmTC_19385.dir/CheckIncludeFile.cxx.o] Error 1
+gmake[1]: Leaving directory '/Users/admin/cmake-basis/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_19385/fast' failed
+gmake: *** [cmTC_19385/fast] Error 2
+
+

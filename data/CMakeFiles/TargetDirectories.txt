@@ -1,0 +1,2 @@
+/Users/admin/cmake-basis/data/CMakeFiles/edit_cache.dir
+/Users/admin/cmake-basis/data/CMakeFiles/rebuild_cache.dir
